@@ -7,3 +7,4 @@
 
 # Programming
 * Love it or hate it?
+We are going to like it eventually.
